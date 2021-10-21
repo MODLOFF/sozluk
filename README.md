@@ -57,3 +57,5 @@
 ("yaprak","Bitkilerde solunum, karbon özümlenmesi, terleme vb. olayların oluştuğu, çoğu klorofilli, yeşil ve türlü biçimdeki bölümler")
 
 ("zengin","Maddi anlamda parası çok olan kimse.")
+
+https://trinket.io/python/a06f033612 :)
